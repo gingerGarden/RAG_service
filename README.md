@@ -37,7 +37,7 @@ A RAG web service implemented using Langchain and StreamLit
 >> * Llama-3-Open-Ko-8B-Q8_0
 >> * 추가 모델이 필요한 경우, 'C. 환경설정. 2. Ollama 와 모델 설치'를 따라, 새로운 모델을 설치하시면 됩니다.
 
-![예시 이미지](./images/RAG_웹_화면_예시.png)4
+![예시 이미지](./images/RAG_웹_화면_예시.png)
 
 </br>
 
