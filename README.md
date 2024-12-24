@@ -9,6 +9,9 @@ A RAG web service implemented using Langchain and StreamLit
 >> * (수정게시) 금융분야 마이데이터 표준 API 규격 v1.pdf 
 > * ./rawdata 경로에 있는 pdf 파일을 교체하거나 추가하는 경우, 그 pdf에 대한 내용을 생성할 수 있으나, 품질이 떨어질 수 있습니다.
 
+### 1.1. 프로세스 전체에 대한 순서도
+![예시 이미지](./images/RAG_순서도.png)
+
 </br>
 </br>
 </br>
